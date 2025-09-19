@@ -1,5 +1,5 @@
 {
-    "next_id": 15,
+    "next_id": 19,
     "sessions": [
         {
             "file_name": "sessions_13256992541.session",
@@ -98,6 +98,34 @@
             "temporary": false,
             "user_id": 8152418450,
             "id": 14
+        },
+        {
+            "file_name": "sessions_966507194209.session",
+            "start_time": "2025-09-19T19:36:07.930706+03:00",
+            "temporary": false,
+            "user_id": 8152418450,
+            "id": 15
+        },
+        {
+            "file_name": "sessions_919361010970.session",
+            "start_time": "2025-09-19T19:40:17.591846+03:00",
+            "temporary": false,
+            "user_id": 8152418450,
+            "id": 16
+        },
+        {
+            "file_name": "sessions_212750410323.session",
+            "start_time": "2025-09-19T19:40:24.466286+03:00",
+            "temporary": false,
+            "user_id": 8152418450,
+            "id": 17
+        },
+        {
+            "file_name": "sessions_966507194209.session",
+            "start_time": "2025-09-19T19:45:25.793243+03:00",
+            "temporary": false,
+            "user_id": 8152418450,
+            "id": 18
         }
     ]
 }
